@@ -7,6 +7,6 @@ Options for class clown
 Michael Durazo | Nah
 -------------- | ---
 Who you gonnna choose? | Michael Peach
-![cheems]()
+![cheems](cheems.jpg)
 
 
